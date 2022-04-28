@@ -29,6 +29,7 @@ video tutorials.
  - David Carlier
  - Arturo Castro
  - Chi-kwan Chan
+ - TheChocolateOre
  - Joseph Chua
  - Ian Clarkson
  - Michał Cichoń
@@ -58,16 +59,20 @@ video tutorials.
  - TheExileFox
  - Felipe Ferreira
  - Michael Fogleman
+ - Jason Francis
  - Gerald Franz
  - Mário Freitas
  - GeO4d
  - Marcus Geelnard
+ - ghuser404
  - Charles Giessen
  - Ryan C. Gordon
  - Stephen Gowen
  - Kovid Goyal
  - Eloi Marín Gratacós
  - Stefan Gustavson
+ - Andrew Gutekanst
+ - Stephen Gutekanst
  - Jonathan Hale
  - hdf89shfdfs
  - Sylvain Hellegouarch
@@ -77,6 +82,7 @@ video tutorials.
  - Paul Holden
  - Warren Hu
  - Charles Huber
+ - illustris
  - InKryption
  - IntellectualKitty
  - Aaron Jacobs
@@ -175,11 +181,15 @@ video tutorials.
  - Ali Sherief
  - Yoshiki Shibukawa
  - Dmitri Shuralyov
+ - Joao da Silva
+ - Daniel Sieger
  - Daniel Skorupski
+ - Slemmie
  - Bradley Smith
  - Cliff Smolinsky
  - Patrick Snape
  - Erlend Sogge Heggen
+ - Olivier Sohn
  - Julian Squires
  - Johannes Stein
  - Pontus Stenetorp
